@@ -1,6 +1,6 @@
 function Button() {
   return (
-    <div className="button">
+    <div className="button-siderbar">
       <button>Tweet</button>
     </div>
   );
